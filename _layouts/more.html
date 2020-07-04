@@ -14,26 +14,8 @@
         {%- include gtm_body.html -%}
       {%- endif -%}
 
-      {%- include about.html -%}
-
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
-      {%- endif -%}
-
-      {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
-      {%- endif -%}
-
-      {%- if site.data.education.size > 0 -%}
-        {%- include education.html -%}
-      {%- endif -%}
-
-      {%- if site.data.skill.size > 0 -%}
-        {%- include skill.html -%}
-      {%- endif -%}
-
-      {%- if site.more_content -%}
-        {%- include more.html -%}
+      {%- if site.data.more_experience.size > 0 -%}
+        {%- include more_experience.html -%}
       {%- endif -%}
 
     </div>

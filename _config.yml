@@ -3,35 +3,35 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Matthew Xu
+title: Passionate IT Veteran
+email: thatmatthewxu@gmail.com
+# phone: 
+# website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+# twitter_username: jekyll
+# github_username:  jekyll
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: thatmatthewxu
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,15 +44,22 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+about_profile_image: assets/profile.jpg #Directory of profile image (eg. images/profile.jpg)
+about_content: |- # this will include new lines to allow paragraphs
+  I'm a hands-on IT "nerd" based in Metro Vancouver now. I have totally over __15__ years of IT working experience in lots of different industries. 
+  Additionally, I am a quick learner and have an outstanding, self-motivated professional with more than 5 years of IT working experience in 
+  Vancouver, Canada, mostly focusing on <mark>Linux</mark> / <mark>Windows System Administrator</mark> / <mark>DevOps</mark> / <mark>Kubernetes Engineer</mark>.
+  
+  Currently, I'm working in a high-tech company as an IT manager, in charge of everything IT related. Identifying IT problems, resolving IT issues,
+  helping the users to accomplish what they want, and planning IT strategy is my daily life. I pretty enjoy every moment of success achieved through 
+  the efforts with the team and myself.
+  
+  Apart from the infrastructure, I also like developing various apps including both back-end and front-end by node js, python, etc. In my spare time, 
+  I was fortunate enough to be part of a passionate, creative start-up team. Together, I participated in several interesting projects and not only 
+  responsible for the infrastructure design and implementation part but also some of the code developing parts.
+  
+  I am always truly honor and proud of working with lots of excellent people in my life and learn from them. That makes me able to fit different 
+  roles in the job.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -60,15 +67,19 @@ about_content: | # this will include new lines to allow paragraphs
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 
+# More Experience Section
+# more_experience_title: More Experience #(Use this to override about experience section title)
+
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
-# More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+# Skill Section
+skill_title: Skills & Proficiency #(Use this to override about skill section title)
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# More Section
+more_title: More about me #(Use this to override about more section title)
+more_content: |- # this will include new lines to allow paragraphs
+  **_Life is not all about work. My family is the major reason I’ve designed my business in a way that allows me to spend time with them._**
 
 # Footer
 footer_show_references: true
@@ -96,3 +107,7 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
+port: 4000
+host: 0.0.0.0
+# safe: false

@@ -1,0 +1,31 @@
+# Skill Template
+skills:
+  - name: Linux (Ubuntu/CentOS)
+    rate: 100
+  - name: Windows Desktop/Server
+    rate: 100
+  - name: Kubernetes/Docker
+    rate: 90
+  - name: VMware ESXi/Citrix Hypervisor
+    rate: 90
+  - name: AWS/Google Cloud/AliCloud
+    rate: 90
+  - name: Cisco/Palo Alto
+    rate: 90
+  - name: SCCM
+    rate: 85
+  - name: NetApp Storage
+    rate: 80
+  - name: Node.js/VueJS/Angular
+    rate: 80
+others:
+  - name: <mark>Python</mark>
+  - name: <mark>HTML/CSS</mark>
+  - name: <mark>Jenkins</mark>
+  - name: <mark>Veem</mark>
+  - name: <mark>Nakivo</mark>
+  - name: <mark>Ansible</mark>
+  - name: <mark>Django</mark>
+  - name: <mark>jQuery</mark>
+  - name: <mark>LSF and OpenLava</mark>
+  - name: <mark>GitLab</mark>

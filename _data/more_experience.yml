@@ -1,0 +1,89 @@
+# Experience template
+- layout: left
+  company: Westpac Banking Corporation, Shanghai Branch
+  link: westpac.com.au
+  jobs_title: Head of IT, Greater China (Shanghai, Beijing and Hong Kong)
+  dates: December, 2010 – January, 2016
+  # quote: >
+  #   Westpac is one of the largest and leading Australian Financial Institutions with Asian branches in Greater China
+  #   (Shanghai/Beijing/Hongkong), Singapore and Mumbai, etc.
+  description: |- # this will include new lines to allow paragraphs
+    - **Key Responsibilities:**
+      - Define and prioritize requirements, manage and communicate the technology plan
+      - Oversee all aspects of technical architecture including resource planning, implementation, and support
+      - Design platform integrations with new and existing partners following industry best practices
+      - Manage deployment of platform enhancements in conjunction with product releases and sales initiatives
+      - Be a key resource on platform architecture and system integrations
+      - Manage third-party resources, partners, and vendors to meet project goals in conjunction with senior leadership
+      - Develop and oversee Helpdesk support and user training with a focus on educating and empowering teams, while meeting agreed upon SLAs
+      - Identify, implement, and support corporate technology practice including areas such as Unified Communications, File Sharing, Voice Network, Computing Equipment, Internet & Network (Cisco, Juniper, Checkpoint, etc.)
+      - Management of technology budgets and resource procurement
+      - Ensure projects follow a standard project plan including stakeholder analysis, requirements gathering, development, communications plan, training plan, measurement plan (when needed), rollout, and debrief.
+      - Responsible for providing IT services/supports timely with high quality to all users across GC by leading and managing an effective IT support team (Active Directory, DHCP, DNS, SCCM, Lotus Notes, etc.)
+      - Providing the innovative IT solutions basing on deep understanding of business requirements.
+      - Liaise with all relevant stakeholders and counterparts to ensure IT infrastructure capacity and performance effectively support business needs at each GC locations.
+    - **Major projects:**
+      - Regulatory projects:
+        - China regulatory reporting system change (2015)
+        - China National Advanced Payment System setup (2013) – (Oracle 11i, IBM Websphere, Suse Linux)
+        - China regulatory infrastructure segregation project (2011)
+      - New office/Technical centre setup:
+        - Beijing branch (2011) and Shanghai Free Trade Zone Sub-branch opening (2014) – (Vmware ESX & Citrix XenDesktop)
+        - Shanghai branch relocation and Hong Kong branch extension (2013)
+        - China Disaster Recovery and BCP setup (2011)
+      - Application and Infrastructure projects:
+        - China Virtual Desktop Infrastructure (VDI) and its on-going performance improvement, maintenance and upgrade (2011-2015) – (Vmware ESX & Citrix XenDesktop)
+        - China remote access reform to the regulatory systems (2015)
+        - Asia core banking legacy platform and interfaces enhancement (2014-2015) 
+        - System roll-out: Microsoft Exchange Outlook (2014); Shanghai IPC (2013); FX Calypso System and the related FX reporting changes (2013)
+        - Standardising systems and processes across Greater China branches (2014) – (Microsoft Sharepoint)
+        - Infrastructure setup: China Bond roll-out (2014) and AUD/CNY Market Maker FX (2013)
+
+- layout: left
+  company: Accenture Consulting (China) Co., Ltd.
+  link: accenture.com
+  job_title: IT Service Delivery Manager
+  dates: August, 2007 – December, 2010
+  # quote: >
+  #  Short description of the company (optional)
+  description: |- # this will include new lines to allow paragraphs
+    ***On site: 2008/05 – 2010/12		Italy Unicredit Group S.P.A Shanghai Branch***
+    - **Key Responsibilities:**
+      - Managing IT support desk effectively to ensure services are consistently provided in a quality and timely manner.
+      - Ensuring that the system operational routines meet the agreed service standards.
+      - Identifying specific business requirements by collecting feedback from local users and regional system support team and initiating the technical change requests.
+      - Coordinated with regional support team for any core-banking system changes and on-going upgrades.
+    - **Major projects:**
+      - Supporting IS (Exchange server, ISA, DC, etc.) go-live in Great China (2009 – 2010)
+      - Implementing Oracle DB (RAC, Data Guard, RMAN, etc.) go-live in Great China (2008 – 2009)
+      - Great China User Domain migration and enhancement (2008)
+      - Supporting new core banking system go-live and on-going maintenance (2008)
+      - Conducting system integrated testing (SIT) and deployment of HP UNIX Mini-computer (2008)
+
+    ***On Site: 2007/08 – 2008/5		Starbucks Enterprise Management (China) Co., Ltd.***
+    - **Key Responsibilities:**
+      - Documenting technical specifications and procedures/manual to support new system implementation.
+      - Preparing technical proposals to support and enhance business development.
+      - IDC IT/IS system support and maintenance.
+    - **Major projects:**
+      - Symantec Endpoint Anti-virus Delivery to support all chain shops in China (2008)
+      - 3rd Party Logistics ERP Upgrade and Deployment (2008)
+      - China Head Quarter IDC setup (2007)
+
+
+- layout: left
+  company: SHARP ELECTRONICS SALES (CHINA) CO., LTD.
+  link: sharp.cn
+  job_title: IT Specialist
+  dates: July, 2004 – August, 2007
+  # quote: >
+  #   CounterPath Corporation is a leading provider of innovative desktop and mobile VoIP software products and solutions.
+  description: |- # this will include new lines to allow paragraphs
+    - **Key Responsibilities:**
+      - In charge of IT helpdesk to support the local users.
+      - Coordinating with regional IT counterparts for system implementation and project delivery.
+      - End-to-end local PRC IT system design, development, implementation, maintenance and trouble-shooting, etc.
+    - **Major projects:**
+      - Symantec Endpoint Anti-virus Delivery to support all chain shops in China (2008)
+      - 3rd Party Logistics ERP Upgrade and Deployment (2008)
+      - China Head Quarter IDC setup (2007)

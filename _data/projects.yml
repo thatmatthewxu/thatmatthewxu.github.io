@@ -1,9 +1,75 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Massive Storage Provisioning (2020.04 - 2020.06)
+  role: Infrastructure Design/Implement/Support and DevOps
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    <mark>FreeNAS 11.3+</mark> <mark>Synology NAS</mark> <mark>NetApp</mark> <mark>Samba</mark> <mark>Winbind</mark> <mark>iSCSI</mark> <mark>CIFS</mark> <mark>NFS<mark>
+  description: |- # this will include new lines to allow paragraphs
+    As the business grows, the team is eager for more storage. I adopted the two types of NAS for two 
+    different purposes through SAN. One solution is using Synology NAS with HDD disks provisioning the 
+    massive storage for data backup. The other solution is using Inspur server with NVME SSD disks 
+    flexibly shipping more spaces for the business data. I configured and operated the NAS with high 
+    availability, scalability, and security, distributed the storage by <mark>NFS</mark>, <mark>CIFS</mark> and <mark>iSCSI</mark> for different 
+    teams in the organization.
+
+- layout: top-middle
+  name: Container Orchestration & Automation (2019.10 - 2020.04)
+  role: Infrastructure Design/Implement/Support
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    <mark>Kubernetes (PV, Ingress, Helm)</mark> <mark>Jenkins</mark> <mark>Apache Groovy</mark> <mark>Harbor</mark> <mark>Rancher</mark>
+  description: |- # this will include new lines to allow paragraphs
+    The goal of the project is to set up an orchestration that helps the team more easily manage complextasks
+    and workflows. To replace current Jenkins and about hundreds of virtualized Jenkins agents, I installed 
+    <mark>Kubernetes</mark> ([kubernetes.io](https://kubernetes.io)) that automates the container operations and scalable, as well as the Jenkins 
+    Kubernetes-plugin. For the <mark>Jenkins</mark> agent docker image, I set up the <mark>Harbor</mark> ([goharbor.io](https://goharbor.io)) as the registry
+    to deliver and manage the docker images across the multiple nodes. Now I'm still consistently doing the 
+    on-going support for this project, such as agent docker image build-up, pipeline configuration, performance 
+    monitoring, resource management and etc.
+
+- layout: top-middle
+  name: Crypto-currency FinTech Project Powered by Algorithm Trading (2018.09 - 2019.05)
+  role: Infrastructure Design/Implement/Support, DevOps and Full-stack Developer
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    <mark>Kubernetes (PV, Ingress, Helm, etc)</mark> <mark>Node JS</mark> <mark>VueJS</mark> <mark>Python</mark> <mark>MongoDB</mark> <mark>AWS</mark> <mark>TensorFlow<mark>
+  description: |- # this will include new lines to allow paragraphs
+    The project is a <mark>cryptocurrency</mark> asset management that helps clients grow digital assets through machine
+    learning-based high-frequency trading products. As one of the founding members, my primary responsibility
+    was designing and implementing the infrastructure from scratch for the computing of the machine learning
+    in the cloud as well as the Node JS coding for data collection and crypto-currency trade through cryptocurrency
+    exchange API. In the collaboration, I am also the <mark>DevOps</mark>, in charge of the workflow of the code development,
+    testing, and auto-deployment.
+
+- layout: top-middle
+  name: Setup and Maintain a Node on the EOS Blockchain (2018.05 - 2018.09)
+  role: Infrastructure Design/Implement/Support
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    <mark>Kubernestes (PV, Ingress, Services, etc)</mark> <mark>Bare Metal</mark> <mark>Docker Image Build</mark>
+  description: |- # this will include new lines to allow paragraphs
+    Our team builds, ships and operates the solution of <mark>EOS</mark> nodes on bare-metal with high availability, scalability,
+    security, and development experience. I'm one of the leading innovators, engineers, and thought leaders in the team.
+    We innovatively combine the EOS node program with Orchestration that benefits building the EOS nodes by leveraging
+    Kubernetes' high availability, self-recovery from failures, distributed nodes, and rapid deployment. Apart from the 
+    technical hands-on, I have more conversations with the people from the different EOS communities and contribute more 
+    tech documents at the beginning of EOS go-live. ([hive.blog/@eos9cat](https://hive.blog/@eos9cat))
+
+- layout: top-middle
+  name: Direct Sale Virtual Assistant for Social Network Marketers (2018.03 - 2018.08)
+  role: Full-stack Developer
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    <mark>Node JS</mark>, <mark>Swagger</mark> <mark>Microsoft Bot Framework</mark> <mark>Google Cloud</mark> <mark>VueJS</mark> <mark>i18n</mark> <mark>MongoDB</mark> <mark>Scrum Board</mark>
+  description: |- # this will include new lines to allow paragraphs
+    The project is developed on the top of the WeChat platform but specializes in natural language processing and conversational
+    user interface. Also, it's the milestone in my IT career as a full-stack developer. My primary responsibility is the back-end
+    coding interacting with WeChat's official account API and payment API as well as the integration with <mark>Microsoft Bot Framework</mark>.
+    Through the interpersonal interaction between the user and the <mark>WeChat</mark> official account, the conversation content is collected,
+    processed by natural language, and the best answer that satisfies the user's needs will be automatically returned to the user

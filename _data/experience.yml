@@ -1,10 +1,71 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: NETINT Technologies Inc.
+  link: netint.ca
+  jobs:
+    - title: IT Manager
+      dates: August, 2018 - Present
+    - title: Senior IT Specialist
+      dates: March, 2018 - August, 2018
+  # quote: >
+  #  Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Manage information technology and computer systems.
+    - Plan, organize, control and evaluate IT and electronic data operations.
+    - Design, develop, implement and coordinate systems, policies and procedures.
+    - Ensure security of data, network access and backup systems.
+    - Act in alignment with user needs and system functionality to contribute to organizational policy.
+    - Identify problematic areas and implement strategic solutions in time.
+    - Preserve assets, information security and control structures.
+    - Handle annual budget and ensure cost effectiveness.
+    - Ensure that build / release procedures are well documented and consistently followed.
+    - Strategically scheduling of all resources, providing the useful and effective solutions to the issues and future plans.
+    - Build, ship and operate the platforms and solutions to the team, with the knowledge of 
+      - Virtualization hosts - <mark>VMware</mark>, <mark>VirtualBox</mark>, <mark>OpenStack</mark>.
+      - Storages - <mark>NetApp</mark>, <mark>Lenovo</mark>, <mark>Synology</mark>.
+      - Network appliances - <mark>Cisco</mark>, <mark>Palo Alto</mark>, <mark>Meraki</mark>.
+      - Monitoring and Automating the systems - <mark>Cacti</mark>, <mark>Observium</mark>, <mark>Ansible</mark>.
+      - Enterprise application and tools - <mark>Active Directory</mark>, <mark>Office365</mark>.
+      - DevOps tools - <mark>Kubernetes</mark>, <mark>Gitlab</mark>, <mark>Jenkins</mark>, <mark>Jira Software</mark>.
+      - Could Sevice - <mark>AWS - EC2, S3, VPC, Route53, IAM</mark>, <mark>Google Cloud</mark>, <mark>Ali Cloud</mark>.
+
+- layout: left
+  company: Questflex Inc.
+  link: questflex.com
+  job_title: Co-founder
+  dates: March, 2018 – Present
+  # quote: >
+  #  Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - As one of the founding members, my primary responsibility is to design, implement, support the infrastructure of each project.
+    - Act as a scrum master in the team to facilitate agile development.
+    - Highly engaging with the team together to achieve the success of each product.
+    - Work closely with the team to improve the architecture of the products by using the latest technologies.
+    - Interact with clients and present portfolio performance in clients’ meetings.
+    - Actively promote the products of QuestFlex and develop a business relationship via a networking event.
+
+- layout: left
+  company: CounterPath Corporation
+  link: counterpath.com
+  job_title: System Administrator, IT Division
+  dates: April, 2016 – March, 2018
+  # quote: >
+  #   CounterPath Corporation is a leading provider of innovative desktop and mobile VoIP software products and solutions.
+  description: | # this will include new lines to allow paragraphs
+    - Provides Tier 2/3 operational support for production systems including troubleshooting system problem reports, resolving issues
+      with production systems, defining operational support processes, patching systems and applications, documenting and reporting 
+      problems and providing end user support as required.
+    - Provide first line troubleshooting for server, network and application issues that are identified by internal teams, external
+      or internal monitoring tools. (<mark>VMware</mark> Installation and Configuration, <mark>Windows Servers</mark>, etc.)
+    - Management of virtual desktop, print, encryption, mobile, firewall, and client facing infrastructure.
+    - Perform ongoing maintenance including configuration changes, software package updates and network changes. (<mark>Cisco</mark>
+      network devices, Windows patches update, etc.)
+    - Provide incident manager during critical issues coordinating efforts among internal teams, ensuring issue resolution, and providing
+      communication back to internal teams.
+    - Work to implement or improve monitoring and management applications and tools.
+    - Work with engineering to drive improvements in applications and tools.
+    - Proactive communication with clients, their team members and other cross functional teams within IT.
+    - Provide quality support following standard operating procedures and directly help to craft and improve those procedures.
+    - Communicate clearly and professionally with the internal customers.
+    - Identify recurring issues and escalate appropriately for permanent resolution. Define and prioritize requirements, manage and
+      communicate the technology plan.

@@ -1,0 +1,9 @@
+<div class="container experience-container">
+  <h3>{{ site.more_experience_title | default: "More Experience" }}</h3>
+  {% for experience in site.data.more_experience %}
+    {% include {{ experience.layout | default: 'left' | append: ".html" }} item=experience %}
+  {% endfor %}
+  <p class="more-experience">
+    <a href="{{ "/" | relative_url }}"><< back to the future...</a>
+  </p>
+</div>
