@@ -40,7 +40,7 @@ linkedin_username: thatmatthewxu
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "UA-171756719-1"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -79,7 +79,10 @@ skill_title: Skills & Proficiency #(Use this to override about skill section tit
 # More Section
 more_title: More about me #(Use this to override about more section title)
 more_content: |- # this will include new lines to allow paragraphs
-  **_Life is not all about work. My family is the major reason I’ve designed my business in a way that allows me to spend time with them._**
+  > *When I was a 5 years old my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up I worte down 'happy'. They told me I didn't understand the assignment, and I told them they didn't understand life.*
+  >  
+  >  
+  > ***--- John Lennon***
 
 # Footer
 footer_show_references: true
